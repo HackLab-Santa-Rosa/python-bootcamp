@@ -4,7 +4,7 @@ Welcome to Python Bootcamp by HackLab Santa Rosa.
 This is an open source project under the GNU Affero General Public License.
 
 # Overview
-This class can be studied asyncronously, but can also be taught in person or trought wideo conferencing software
+This class can be studied asyncronously, but can also be taught in person or trought video conferencing software
 
 The goal of this class is to teach the basics of Python programming, as well as introducing computer science principles.
 
