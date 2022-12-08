@@ -19,3 +19,5 @@ sudo apt install python
 sudo pacman -Syu python
 ```
 ## MacOS
+Coming Soon!
+(TODO)
